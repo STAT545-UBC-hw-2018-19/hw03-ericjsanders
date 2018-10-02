@@ -3,7 +3,7 @@
 
 Welcome! This is a repository used to store the contents of Homework Assignment 3 of *STAT545*, a course taught in the fall of 2018 at the University of British Columbia.
 
-This repository is only contributed to by Eric Sanders, me. The main contribution to this repository besides this ReadMe is an exploration of the `flchain` data frame available for free in R in the `survival` package. This work is visible **[here](https://github.com/STAT545-UBC-students/hw03-ericjsanders/blob/master/hw03Exploration.md**!
+This repository is only contributed to by Eric Sanders, me. The main contribution to this repository besides this ReadMe is an exploration of the `flchain` data frame available for free in R in the `survival` package. This work is visible **[here](https://github.com/STAT545-UBC-students/hw03-ericjsanders/blob/master/hw03Exploration.md)**!
 
 ## Purpose and Use of the Data
 
